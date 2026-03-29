@@ -1,0 +1,15 @@
+
+{
+  "name": "blink-app",
+  "version": "1.0.0",
+  "description": "System-wide blink reminder app using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nithya",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
